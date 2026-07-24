@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-tx657q.citysinglescommunity.com/sitemap.xml
